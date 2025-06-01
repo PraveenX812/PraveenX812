@@ -37,22 +37,14 @@ I'm **Praveen**, a passionate fullstack developer and open-source enthusiast who
 
 ---
 
-## 🏆 GitHub Trophies
+## Let's Connect
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PraveenX812&theme=radical&no-frame=true&column=7&margin-w=5&margin-h=5" />
-</p>
-
----
-
-##  Let's Connect
-
-- 📫 Reach out on [LinkedIn](https://www.linkedin.com/in/praveenrawat7072/)
-- 📨 Email: [Gmail](praveenrawat784@gmail.com)
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0a192f&height=120" />
+<p>
+  <a href="https://www.linkedin.com/in/praveenrawat7072/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:praveenrawat784@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </p>
 
