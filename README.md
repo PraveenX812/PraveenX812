@@ -1,6 +1,6 @@
 ## 👋 Hey there!
 
-I'm **Praveen**, a passionate fullstack developer and open-source enthusiast who enjoys solving complex problems and building scalable systems.
+I'm **Praveen Rawat**, a passionate fullstack developer and open-source enthusiast who enjoys solving complex problems and building scalable systems.
 
 - 🌱 Always learning something new — currently diving deeper into **system design**,**cloud architecture**.
 - 🤝 Open to collaborating on meaningful **open-source projects**
