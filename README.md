@@ -30,11 +30,6 @@ I'm **Praveen**, a passionate fullstack developer and open-source enthusiast who
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PraveenX812&theme=tokyonight" height="180" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PraveenX812&theme=tokyonight" height="150" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PraveenX812&theme=tokyonight" height="150" />
-</p>
-
 ---
 
 ## Let's Connect
