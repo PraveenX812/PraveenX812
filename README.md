@@ -43,5 +43,8 @@ I'm **Praveen Rawat**, a passionate fullstack developer and open-source enthusia
   <a href="mailto:praveenrawat784@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+  <a href="https://x.com/Praveen07511526" target="_blank">
+    <img src="https://img.shields.io/twitter/url" alt="Twitter" />
+  </a>
 </p>
 
