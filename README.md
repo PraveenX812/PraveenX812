@@ -23,6 +23,17 @@ I'm **Praveen Rawat**, a passionate fullstack developer and open-source enthusia
 
 ---
 
+## 🏆 Competitive Programming
+
+<a href="https://codeforces.com/profile/TooWeakTooSlow444" target="_blank">
+  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+</a>
+<a href="https://leetcode.com/u/TooWeakTooSlow444" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+</a>
+
+---
+
 ## 📈 GitHub Analytics
 
 ![Profile Views](https://komarev.com/ghpvc/?username=PraveenX812&style=for-the-badge&color=8a2be2)
