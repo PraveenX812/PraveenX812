@@ -37,12 +37,16 @@ I'm **Praveen Rawat**, a passionate fullstack developer and open-source enthusia
 ## 📈 GitHub Analytics
 
 ![Profile Views](https://komarev.com/ghpvc/?username=PraveenX812&style=for-the-badge&color=8a2be2)
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PraveenX812&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PraveenX812&theme=tokyonight" height="180" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=PraveenX812&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" 
+    height="180" 
+  />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=PraveenX812&theme=tokyonight&include_all_commits=true" 
+    height="180" 
+  />
 </p>
-
 ---
 
 ## Let's Connect
